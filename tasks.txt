@@ -1,6 +1,3 @@
-JAVA DSA
-Advance Java DSA
-HTML / CSS
-Javascript
-ReactJS
-Node.js
+hello
+Okay
+new Task
